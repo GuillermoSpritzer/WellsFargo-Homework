@@ -1,0 +1,23 @@
+C:\Users\guillermo.spritzer\source\WellsFargo\WellsFargo.Homework\WellsFargo.Homework.Services\bin\Debug\net5.0\WellsFargo.Homework.Services.deps.json
+C:\Users\guillermo.spritzer\source\WellsFargo\WellsFargo.Homework\WellsFargo.Homework.Services\bin\Debug\net5.0\WellsFargo.Homework.Services.dll
+C:\Users\guillermo.spritzer\source\WellsFargo\WellsFargo.Homework\WellsFargo.Homework.Services\bin\Debug\net5.0\ref\WellsFargo.Homework.Services.dll
+C:\Users\guillermo.spritzer\source\WellsFargo\WellsFargo.Homework\WellsFargo.Homework.Services\bin\Debug\net5.0\WellsFargo.Homework.Services.pdb
+C:\Users\guillermo.spritzer\source\WellsFargo\WellsFargo.Homework\WellsFargo.Homework.Services\obj\Debug\net5.0\WellsFargo.Homework.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guillermo.spritzer\source\WellsFargo\WellsFargo.Homework\WellsFargo.Homework.Services\obj\Debug\net5.0\WellsFargo.Homework.Services.AssemblyInfoInputs.cache
+C:\Users\guillermo.spritzer\source\WellsFargo\WellsFargo.Homework\WellsFargo.Homework.Services\obj\Debug\net5.0\WellsFargo.Homework.Services.AssemblyInfo.cs
+C:\Users\guillermo.spritzer\source\WellsFargo\WellsFargo.Homework\WellsFargo.Homework.Services\obj\Debug\net5.0\WellsFargo.Homework.Services.csproj.CoreCompileInputs.cache
+C:\Users\guillermo.spritzer\source\WellsFargo\WellsFargo.Homework\WellsFargo.Homework.Services\obj\Debug\net5.0\WellsFargo.Homework.Services.dll
+C:\Users\guillermo.spritzer\source\WellsFargo\WellsFargo.Homework\WellsFargo.Homework.Services\obj\Debug\net5.0\ref\WellsFargo.Homework.Services.dll
+C:\Users\guillermo.spritzer\source\WellsFargo\WellsFargo.Homework\WellsFargo.Homework.Services\obj\Debug\net5.0\WellsFargo.Homework.Services.pdb
+C:\Users\guillermo.spritzer\source\WellsFargo\WellsFargo.Homework\WellsFargo.Homework.Services\obj\Debug\net5.0\WellsFargo.Homework.Services.csprojAssemblyReference.cache
+C:\Users\guillermo.spritzer\OneDrive - Bottomline\Desktop\WellsFargo.Homework-main2\WellsFargo.Homework.Services\bin\Debug\net5.0\WellsFargo.Homework.Services.deps.json
+C:\Users\guillermo.spritzer\OneDrive - Bottomline\Desktop\WellsFargo.Homework-main2\WellsFargo.Homework.Services\bin\Debug\net5.0\WellsFargo.Homework.Services.dll
+C:\Users\guillermo.spritzer\OneDrive - Bottomline\Desktop\WellsFargo.Homework-main2\WellsFargo.Homework.Services\bin\Debug\net5.0\ref\WellsFargo.Homework.Services.dll
+C:\Users\guillermo.spritzer\OneDrive - Bottomline\Desktop\WellsFargo.Homework-main2\WellsFargo.Homework.Services\bin\Debug\net5.0\WellsFargo.Homework.Services.pdb
+C:\Users\guillermo.spritzer\OneDrive - Bottomline\Desktop\WellsFargo.Homework-main2\WellsFargo.Homework.Services\obj\Debug\net5.0\WellsFargo.Homework.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guillermo.spritzer\OneDrive - Bottomline\Desktop\WellsFargo.Homework-main2\WellsFargo.Homework.Services\obj\Debug\net5.0\WellsFargo.Homework.Services.AssemblyInfoInputs.cache
+C:\Users\guillermo.spritzer\OneDrive - Bottomline\Desktop\WellsFargo.Homework-main2\WellsFargo.Homework.Services\obj\Debug\net5.0\WellsFargo.Homework.Services.AssemblyInfo.cs
+C:\Users\guillermo.spritzer\OneDrive - Bottomline\Desktop\WellsFargo.Homework-main2\WellsFargo.Homework.Services\obj\Debug\net5.0\WellsFargo.Homework.Services.csproj.CoreCompileInputs.cache
+C:\Users\guillermo.spritzer\OneDrive - Bottomline\Desktop\WellsFargo.Homework-main2\WellsFargo.Homework.Services\obj\Debug\net5.0\WellsFargo.Homework.Services.dll
+C:\Users\guillermo.spritzer\OneDrive - Bottomline\Desktop\WellsFargo.Homework-main2\WellsFargo.Homework.Services\obj\Debug\net5.0\ref\WellsFargo.Homework.Services.dll
+C:\Users\guillermo.spritzer\OneDrive - Bottomline\Desktop\WellsFargo.Homework-main2\WellsFargo.Homework.Services\obj\Debug\net5.0\WellsFargo.Homework.Services.pdb
