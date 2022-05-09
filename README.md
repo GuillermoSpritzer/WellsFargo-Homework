@@ -21,7 +21,9 @@ Navigate to the ClientApp subdirectory in project WellsFargo.Homework.Web on CMD
 In the ClientApp subdirectory in a CLI and run "npm start".
 
 Navigate to WellsFargo.Homework.Web in CMD client and do following commands:
+
 dotnet build
+
 dotnet run
 
 Load the Cambium.MarsRover solution in Visual Studio 2019.
