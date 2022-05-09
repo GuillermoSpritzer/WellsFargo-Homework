@@ -1,8 +1,10 @@
 # WellsFargo.Homework
  
-Application to process transactions files into order files ofr different OMSs.
+Application to process transactions files into order files for different OMSs.
 
-The application is a web client where you can upload a transaction file.
+The application is a web client where you can upload a transaction file and it will create order files on the output folder.
+
+You can configure the input and output paths on appsettings.json int project  WellsFargo.Homework.Web
 
 Prerequisites Ensure you have the following installed on your development machine:
 
@@ -10,9 +12,6 @@ nodejs 10.16.3 (Required by npm)
 
 Net Core 5.0 SDK
 
-Assumptions:
-
-You can configure the input and output paths on appsettings.json int project  WellsFargo.Homework.Web
 
 ## To run locally, follow next steps
 
