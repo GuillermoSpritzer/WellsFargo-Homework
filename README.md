@@ -14,18 +14,27 @@ Assumptions:
 
 You can configure the input and output paths on appsettings.json int project  WellsFargo.Homework.Web
 
-Running the ApplicationIn Debug Mode
+## To run locally, follow next steps
 
-Navigate to the ClientApp subdirectory in project WellsFargo.Homework.Web on CMD client and run "npm install". This will download the npm dependencies.
+System requirements:
 
-In the ClientApp subdirectory in a CLI and run "npm start".
+.Net Core v5.0.4 --- installation ( https://dotnet.microsoft.com/download/dotnet/5.0 )
 
-Navigate to WellsFargo.Homework.Web in CMD client and do following commands:
+nodejs 10.16.3 (Required by npm)
 
-dotnet build
+Once installed donwload repository and open the folder on console
 
-dotnet run
+```
+$ cd ../WellsFargo.Homework.Web/ClientApp
 
-Load the Cambium.MarsRover solution in Visual Studio 2019.
+$ npm install
 
-press start and the application should start.
+$ cd ../WellsFargo.Homework.Web
+
+$ dotnet build
+
+$ dotnet run
+```
+
+Application will run on port 5001:8080
+
