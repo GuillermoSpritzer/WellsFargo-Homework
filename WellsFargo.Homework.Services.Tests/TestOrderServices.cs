@@ -92,10 +92,9 @@ namespace WellsFargo.Homework.Services.Tests
 
         public ServiceConfigurationTest()
         {
-            FolderSecurities = "C:\\WellsFargo\\securities.csv";
-            FolderPortfolios = "C:\\WellsFargo\\portfolios.csv";
-            FolderOrders = "C:\\WellsFargoOutput\\";
-
+            FolderSecurities = "..\\..\\..\\TestFiles\\securities.csv";
+            FolderPortfolios = "..\\..\\..\\TestFiles\\portfolios.csv";
+            FolderOrders = "..\\..\\..\\TestFiles\\";
         }
     }
 }
