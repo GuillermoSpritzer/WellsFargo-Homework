@@ -12,7 +12,7 @@ namespace WellsFargo.Homework.Services
 {
     public class SecuritiesRepository : ISecuritiesRepository
     {
-        private string securitiesFolder = @"C:\WellsFargo\Securities.csv";
+        private string securitiesFolder { get; set; }
         private  Dictionary<int, Security> SecuritiesDictionary {get;set;}
 
         public SecuritiesRepository(IServiceConfiguration configuration)

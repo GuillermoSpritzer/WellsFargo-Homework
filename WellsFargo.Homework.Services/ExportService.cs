@@ -10,7 +10,7 @@ namespace WellsFargo.Homework.Services
 {
     public class ExportService : IExportService
     {
-        public string basePath = @"C:\WellsFargoOutput\";
+        public string basePath;// = @"C:\WellsFargoOutput\";
 
         public IFileParamsRepository _fileParamsRepository;
 
